@@ -1,4 +1,2 @@
-Hi, you can call me vDox (my hacker name in bugcrowd),
- I have a bachelor degree in management computing, a bug hunter certification from Udemy (Learn Bug Bounty Hunting From Scratch by zSecurity) and currently studying for security analyst certification.
-I'm an aspiring bug hunter & vulnerability assessment professionnal.
-My personal goal is to contribute for a better secured digital world!
+Hi, I'm LexS. I break things so I can help build a safer internet.
+As a security analyst and dedicated bug hunter with a passion for dissecting web applications. My journey is fueled by a Bachelor's in Management Computing and formalized through certifications like the Google Cybersecurity Professional and BurpSuite Professional.
